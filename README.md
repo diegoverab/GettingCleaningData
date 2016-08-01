@@ -1,5 +1,4 @@
-# GettingCleaningData
-Graded Assignment: Getting and Cleaning Data 
+# Assignment Getting Cleaning Data
 
 Author: Diego Vera
 
