@@ -14,5 +14,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 #Run Script
 
 a) Open run_analysis.r
+
 b) Edit "setwd" with your path
 
