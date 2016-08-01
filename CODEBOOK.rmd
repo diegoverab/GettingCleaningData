@@ -1,7 +1,11 @@
 #Code Book
 
-Variable  | Description
---------------------------
-activity	|	id activity 
-subject	  |	Id the subject
+### Variable Descriptions
+
+
+| Variable | Description
+-----------|-------------
+
+|activity	|	id activity 
+|subject	  |	Id the subject
 
